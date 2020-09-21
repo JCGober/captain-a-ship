@@ -1,0 +1,23 @@
+{
+  "name": "captain-a-ship",
+  "version": "1.0.0",
+  "description": "A game where you captain a ship.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JCGober/captain-a-ship.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JCGober/captain-a-ship/issues"
+  },
+  "homepage": "https://github.com/JCGober/captain-a-ship#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

@@ -1,4 +1,4 @@
-.frontPage{
+.centerPage{
     margin: 0 auto;
     width: 90%;
 }
@@ -22,3 +22,46 @@ body{
 .shipGo{
     background-color: burlywood;
 }
+
+#startBtn{
+    text-align: center;
+    display: none;
+}
+
+.wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .gameBox{
+      border: solid 2px black;
+      margin-top: 10px;
+
+  }
+
+  .actionBox{
+      height: 20em;
+      width: 50em;
+      border: double black 3px;
+      overflow: auto;
+
+  }
+
+  .optionBox{
+    height: 10em;
+    width: 60em;
+    border: double black 3px;
+    margin-top: 20px;
+    overflow: scroll;
+  }
+
+  .optionBut{
+      margin: 5px;
+  }
+
+  .characterBox{
+
+
+  }
+

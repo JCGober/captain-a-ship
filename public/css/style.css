@@ -47,6 +47,7 @@ body{
       overflow: auto;
       font-family: 'East Sea Dokdo', cursive;
       font-size: 22px;
+      background-color: ivory;
 
   }
 
@@ -56,6 +57,7 @@ body{
     border: double black 3px;
     margin-top: 20px;
     overflow: scroll;
+    background-color: oldlace;
     
   }
 
@@ -65,7 +67,14 @@ body{
   }
 
   .characterBox{
+      background-color: seashell;
 
+
+  }
+
+  .bodyGame{
+
+    background-color: skyblue ;
 
   }
 

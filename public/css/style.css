@@ -1,0 +1,24 @@
+.frontPage{
+    margin: 0 auto;
+    width: 90%;
+}
+
+.topPage{
+    margin-top: 10px;
+}
+
+.featureBot{
+    margin-bottom: 35px;
+}
+
+.footClass{
+    text-align: center;
+}
+
+body{
+    background-color: aliceblue;
+}
+
+.shipGo{
+    background-color: burlywood;
+}

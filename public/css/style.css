@@ -41,23 +41,27 @@ body{
   }
 
   .actionBox{
-      height: 20em;
+      height: 17em;
       width: 50em;
       border: double black 3px;
       overflow: auto;
+      font-family: 'East Sea Dokdo', cursive;
+      font-size: 22px;
 
   }
 
   .optionBox{
-    height: 10em;
+    height: 12em;
     width: 60em;
     border: double black 3px;
     margin-top: 20px;
     overflow: scroll;
+    
   }
 
   .optionBut{
       margin: 5px;
+      font-family: 'Chelsea Market', cursive;
   }
 
   .characterBox{
